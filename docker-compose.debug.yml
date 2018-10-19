@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
   teguhmurdianto.github.io:
-    image: teguhmurdianto.github.io
+    image: okkyagungwibisono.github.io
     build:
       context: .
       dockerfile: Dockerfile
