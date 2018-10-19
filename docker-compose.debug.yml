@@ -1,7 +1,7 @@
 version: '2.1'
 
 services:
-  teguhmurdianto.github.io:
+  okkyagungwibisono.github.io:
     image: okkyagungwibisono.github.io
     build:
       context: .
